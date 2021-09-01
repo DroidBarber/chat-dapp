@@ -1,3 +1,6 @@
+Building a decentralized chat app using the GUN JavaScript library and web3 technology to create a peer-to-peer graph database without traditional cloud computing providers
+
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
