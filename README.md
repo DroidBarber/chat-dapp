@@ -1,4 +1,4 @@
-### Building a decentralized chat app using the GUN JavaScript library and web3 technology to create a peer-to-peer graph database without traditional cloud computing providers
+### Building a decentralized chat app using Svelte for the Chat UI and the GUN JavaScript library and web3 technology to create a peer-to-peer graph database without traditional cloud computing providers
 
 https://github.com/amark/gun
 
